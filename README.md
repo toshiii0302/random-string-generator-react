@@ -56,5 +56,5 @@ npm run dev
 ```
 
 ## Author
-
+Toshika
 Created as part of the QSkill Frontend Internship Assignment.
